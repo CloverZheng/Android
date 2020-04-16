@@ -1,0 +1,2 @@
+# Android
+Eclipse里面的Sevlet和AndroidStudio的移动端通过GET方式进行交互，不用公网，电脑和安卓虚拟设备进行。
